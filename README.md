@@ -27,7 +27,7 @@
 [<img src="https://avatars2.githubusercontent.com/u/50842865?s=460&v=4" width="100px;"/><br /><sub><b>Kevin Gonzalez</b></sub>](https://github.com/KevinJGMartinez)<br/>
 ## License
 
-MIT
+GNU General Public License v3.0
 
 <p align="center">
     <img src="https://www.dl.dropboxusercontent.com/s/xsff6uy5tu5u3fr/Logo_AA_2020_P5.png?dl=0" alt="Logo AA" width="100px">
