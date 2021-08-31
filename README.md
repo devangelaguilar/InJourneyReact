@@ -2,7 +2,6 @@
 
 <h1 align="center">
   <br>
-  <img src="https://www.dl.dropboxusercontent.com/s/wvkh9lfwfdujncx/Logo_IJ.png?dl=0" alt="InJourney Logo" width="200">
   <br>
     InJourney
   <br>
@@ -28,7 +27,3 @@
 ## License
 
 GNU General Public License v3.0
-
-<p align="center">
-    <img src="https://www.dl.dropboxusercontent.com/s/xsff6uy5tu5u3fr/Logo_AA_2020_P5.png?dl=0" alt="Logo AA" width="100px">
-</p>
